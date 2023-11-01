@@ -1,5 +1,3 @@
-Certainly, here's a template for a README.md file for your "codex-backend-spring" project, a Spring Boot application serving as the backend for the Codex Iter website:
-
 # Codex Backend - Spring
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
