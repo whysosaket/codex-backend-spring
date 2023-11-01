@@ -44,7 +44,7 @@ Before running the Codex Backend - Spring, make sure you have the following prer
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/codex-backend-spring.git
+   git clone https://github.com/whysosaket/codex-backend-spring.git
    cd codex-backend-spring
    ```
 
